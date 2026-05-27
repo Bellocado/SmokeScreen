@@ -4,6 +4,9 @@
 
 ---
 
+>[!IMPORTANT]
+>Windows defender might flag this as a virus, because it uses cartain python packages that are commonly found in keyloggers. This piece of software is not harmfull and i do not claim responsibility if you downloaded this from anywhere else than from this github page!
+
 ## 🚀 Features
 
 * **Instant Concealment:** Completely hides the target application window, removing it from both the desktop and the Windows taskbar.
