@@ -12,6 +12,9 @@
 * **System Tray Stealth Mode:** Minimizes itself completely into the system tray, running invisibly in the background so the utility tool itself remains unnoticeable.
 * **Dynamic Process Detection:** Scans actively running system processes to quickly let you map applications via dropdown selectors without needing to manually find file paths.
 
+> [!TIP]
+> Place the exe in a directory, because it creates a file to save the settings!
+
 ---
 
 ## 🛠️ Controls & Hotkeys
