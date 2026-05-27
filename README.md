@@ -38,3 +38,6 @@ SmokeScreen is built for **Windows OS** and relies on native Win32 APIs for wind
 If running from source, ensure you have Python 3.8+ installed along with the following packages:
 ```bash
 pip install customtkinter keyboard pillow pystray psutil pywin32
+```
+>[!TIP]
+>Make sure you also download the images and place them in the same folder as the code!
