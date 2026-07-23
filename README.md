@@ -13,6 +13,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
+More info [here](LICENSE.txt)
+
 # SmokeScreen v1.0.2
 
 **SmokeScreen** is a lightweight, dark-themed utility console designed to protect your privacy instantly. It acts as a configurable "Panic Button" that allows you to completely conceal a target application (e.g., a game or private window) and instantly bring up or launch a cover application (e.g., a document or browser) with a single keystroke.
